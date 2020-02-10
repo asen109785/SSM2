@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="038178ac-b80a-4795-a4b6-7ebe6f064a19" name="Default Changelist" comment="第一次提交git仓库">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/db.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/mybatis/mybatis-config.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/classes/net/wanho/controller/TestController.class" afterDir="false" />
@@ -28,6 +21,8 @@
       <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/menu/hello_jsp.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/aa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/aa.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +39,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="asen222" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
@@ -113,7 +113,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581296554301</updated>
-      <workItem from="1581296557090" duration="14171000" />
+      <workItem from="1581296557090" duration="15718000" />
+      <workItem from="1581321661239" duration="705000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交git仓库">
       <created>1581319605468</created>
@@ -122,13 +123,71 @@
       <option name="project" value="LOCAL" />
       <updated>1581319605469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交git仓库">
+      <created>1581319672373</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581319672376</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第二次提交">
+      <created>1581320592195</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581320592195</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第一次提交git仓库">
+      <created>1581323011723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581323011723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="第二次提交" />
     <MESSAGE value="第一次提交git仓库" />
     <option name="LAST_COMMIT_MESSAGE" value="第一次提交git仓库" />
   </component>
@@ -137,34 +196,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="682" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581302228264" />
-    <state x="518" y="109" key="CommitChangelistDialog2" timestamp="1581319601595">
+    <state x="518" y="109" width="801" height="821" key="CommitChangelistDialog2" timestamp="1581324857169">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="518" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581319601595" />
+    <state x="518" y="109" width="801" height="821" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581324857169" />
     <state x="1268" y="260" key="FileChooserDialogImpl" timestamp="1581319387537">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1268" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581319387537" />
-    <state width="1877" height="360" key="GridCell.Tab.0.bottom" timestamp="1581319569717">
+    <state x="793" y="643" width="273" height="272" key="Github.ShareDialog" timestamp="1581322931007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581319569717" />
-    <state width="1877" height="360" key="GridCell.Tab.0.center" timestamp="1581319569717">
+    <state x="793" y="643" width="273" height="272" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581322931007" />
+    <state width="1860" height="355" key="GridCell.Tab.0.bottom" timestamp="1581321263834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581319569717" />
-    <state width="1877" height="360" key="GridCell.Tab.0.left" timestamp="1581319569717">
+    <state width="1860" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581321263834" />
+    <state width="1860" height="355" key="GridCell.Tab.0.center" timestamp="1581321263834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581319569717" />
-    <state width="1877" height="360" key="GridCell.Tab.0.right" timestamp="1581319569717">
+    <state width="1860" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581321263834" />
+    <state width="1860" height="355" key="GridCell.Tab.0.left" timestamp="1581321263834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="360" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581319569717" />
+    <state width="1860" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581321263834" />
+    <state width="1860" height="355" key="GridCell.Tab.0.right" timestamp="1581321263834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581321263834" />
+    <state x="368" y="89" key="MergeDialog" timestamp="1581323574980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="89" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581323574980" />
+    <state x="935" y="238" key="MultipleFileMergeDialog" timestamp="1581323574987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="935" y="238" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581323574987" />
     <state x="819" y="159" key="SettingsEditor" timestamp="1581319371067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="819" y="159" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581319371067" />
+    <state x="550" y="262" key="Vcs.Push.Dialog.v2" timestamp="1581320596510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="550" y="262" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581320596510" />
+    <state x="668" y="249" key="git4idea.branch.GitSmartOperationDialog" timestamp="1581323551398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="249" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581323551398" />
     <state x="508" y="418" width="672" height="677" key="run.anything.popup" timestamp="1581304041844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

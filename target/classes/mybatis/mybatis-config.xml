@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+
+<!--    <settings>-->
+<!--        &lt;!&ndash;    设置懒加载器 总设置&ndash;&gt;-->
+<!--        <setting name="lazyLoadingEnabled" value="true"/>-->
+<!--        &lt;!&ndash;    当设置为true的时候，懒加载对象(一对一关联的对象)可能被任何懒属性加载，否则按需加载    &ndash;&gt;-->
+<!--        <setting name="aggressiveLazyLoading" value="false"/>-->
+<!--        <setting name="cacheEnabled" value="true"/>-->
+<!--    </settings>-->
+
+
+<!--    分页-->
+<!--    <plugins>-->
+<!--        <plugin interceptor="com.github.pagehelper.PageInterceptor"></plugin>-->
+<!--    </plugins>-->
+
+<!--    接口映射文件-->
+<!--    <mappers>-->
+<!--        <mapper resource="net/wanho/mapper/StudentMapper.xml"/>-->
+<!--        <mapper resource="net/wanho/mapper/GradeMapper.xml"/>-->
+<!--    </mappers>-->
+
+
+
+</configuration>
