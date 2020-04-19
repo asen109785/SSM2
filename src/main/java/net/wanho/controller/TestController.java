@@ -13,4 +13,10 @@ public class TestController {
         return "hello";
     }
 
+    @RequestMapping("hello2")
+    public String hello2(Map map ){
+        map.put("msg","asen");
+        return "hello";
+    }
+
 }
